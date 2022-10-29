@@ -23,6 +23,7 @@ public class project {
                 System.out.println("Try again");
             } else if (Number < ActualNumber && Number > 0) {
                 System.out.println("your no. is smaller ");
+                 System.out.println("Try again");
             } else if (Number > 100) {
                 System.out.println("Enter no. between 1 to 100");
 
